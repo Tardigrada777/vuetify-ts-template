@@ -1,34 +1,48 @@
-# vuetify-ts-template
+## vuetify-ts-template
 
-## Project setup
+The goal of this project is to create a reusable starter project for real-world typed applications with Vuetify. To achieve this target, we need a solution which includes basic integration vue2, vuetifyjs, vuex (typed) and vue-router.
+
+### Features
+- Vuejs (^2.6)
+- @vue/cli
+- vue-class-components style
+- vuex-class (for vuex)
+- vue-router
+- typescript
+- vuetify (with types support)
+- yarn
+- unit tests with jest
+- e2e tests with cypress
+- eslint
+
+### Usage
+
+__Install deps__
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+__Compiles and hot-reloads for development__
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+__Compiles and minifies for production__
 ```
 yarn build
 ```
 
-### Run your unit tests
+__Run your unit tests__
 ```
 yarn test:unit
 ```
 
-### Run your end-to-end tests
+__Run your end-to-end tests__
 ```
 yarn test:e2e
 ```
 
-### Lints and fixes files
+__Lints and fixes files__
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
