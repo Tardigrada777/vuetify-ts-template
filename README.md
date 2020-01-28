@@ -17,6 +17,11 @@ The goal of this project is to create a reusable starter project for real-world 
 
 ### Usage
 
+__Clone this repo__
+```
+git clone https://github.com/Tardigrada777/vuetify-ts-template.git
+```
+
 __Install deps__
 ```
 yarn install
