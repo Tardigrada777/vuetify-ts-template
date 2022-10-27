@@ -1,4 +1,4 @@
-## vuetify-ts-template 🧢 👨🏻‍💻 🆓  🇷🇺
+## vuetify-ts-template 🧢 👨🏻‍💻 🆓
 
 The goal of this project is to create a reusable starter project for real-world typed applications with Vuetify. To achieve this target, we need a solution which includes basic integration vue2, vuetifyjs, vuex (typed) and vue-router.
 
